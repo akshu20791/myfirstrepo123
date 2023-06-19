@@ -1,0 +1,3 @@
+Hello, This is the index file
+This is new content
+hi i am your friend akshat
